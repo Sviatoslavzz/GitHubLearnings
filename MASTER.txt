@@ -3,3 +3,5 @@ The main text in the file
 The second text (update 1)
 
 Feature 1 text from GitHub
+
+Feature 2 local changes
